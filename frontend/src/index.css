@@ -19,3 +19,9 @@ h2 {
 .rating span {
   margin: 0.1rem;
 }
+
+.flex-centered-align{
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
